@@ -1,0 +1,1 @@
+insert into txn_type(transaction_category, transaction_type) values(?,?);

@@ -1,0 +1,1 @@
+select count(transaction_number) as num_of_txn from txn;

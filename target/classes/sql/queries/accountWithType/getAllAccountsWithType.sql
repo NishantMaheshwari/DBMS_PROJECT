@@ -1,0 +1,1 @@
+select * from vw_accounts_with_type;
